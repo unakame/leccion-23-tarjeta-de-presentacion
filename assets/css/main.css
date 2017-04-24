@@ -13,7 +13,7 @@
   font-size: 24px;
   margin-top: -432px;
   margin-left: 350px;
-  background: -webkit-linear-gradient(-45deg,  transparent);
+  background: linear-gradient(110deg, rgba(60,60,59,0) 0%, rgba(60,60,59,0) 45%, rgba(60,60,59,1) 45%, rgba(60,60,59,1) 100%);
 }
 
 #subtitle{
